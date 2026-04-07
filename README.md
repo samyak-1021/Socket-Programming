@@ -63,6 +63,7 @@ This is a lightweight approach to demonstrate secure communication similar to DT
 Open terminal in project folder:
 
 gcc server.c -o server
+
 gcc client.c -o client
 
 ---
