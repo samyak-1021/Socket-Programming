@@ -1,4 +1,5 @@
-#Reliable Group Notification System
+# Reliable Group Notification System
+
 # Go-Back-N Protocol with Multi-Client Support (UDP + Basic Security)
 
 ## Overview
