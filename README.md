@@ -87,13 +87,17 @@ Run at least 2 clients.
 Server:
 
 server started...
+
 waiting clients...
+
 enc 0: ...
+
 sent 0
 
 Client:
 
 client started...
+
 decrypted 0: msg 0
 
 ---
